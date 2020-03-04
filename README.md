@@ -1,4 +1,6 @@
 # Excel-
+这里将不定期推出关于Excel的学习视频，欢迎各种意见和建议，希望大家多多指教
+第一、二周作业：
 主要介绍了在Excel中如何用函数制造均匀分布的随机数，百分比排名和分数的转换，平均数和标准差的计算
 链接：https://pan.baidu.com/s/1IO2GtDWrwzETFRPeG70LzQ 
 提取码：mk8o
